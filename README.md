@@ -7,4 +7,4 @@ Inspired by:
 - https://waitbutwhy.com/2014/05/life-weeks.html
 - https://www.bryanbraun.com/your-life/weeks.html
 
-![alt text](https://github.com/antonjlin/your-life-in-weeks-chrome-extension/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/antonjlin/your-life-in-weeks-chrome-extension/blob/main/image.png?raw=true)
