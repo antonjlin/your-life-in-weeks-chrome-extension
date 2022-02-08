@@ -1,0 +1,14 @@
+{
+    "author": "Anton Lin",
+    "name": "Your Life In Weeks",
+    "version": "0.1",
+    "manifest_version": 2,
+    "minimum_chrome_version": "29",
+    "description": "A Chrome extension that shows your life in weeks, inspired by Wait But Why",
+    "permissions": [
+        "management"
+    ],
+    "chrome_url_overrides": {
+        "newtab": "src/index.html"
+    }
+}
