@@ -122,7 +122,7 @@ input:required:invalid.touched {
 }
 .months > li {
   border: 1px solid #000;
-  width: 2.380952381%;
+  width: 2.980952381%;
   padding-bottom: 1.984126984%;
   margin: 0.198412698%;
   border-radius: 50%;
@@ -134,7 +134,7 @@ input:required:invalid.touched {
 .weeks > li {
   /* border: 1px solid #4444; */
   background-color: #36353a;
-  width: 1.382051282%;
+  width: 1.282051282%;
   aspect-ratio: 1;
   padding-bottom: 0.961538462%;
   margin: 0.320512821%;
